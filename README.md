@@ -5,14 +5,14 @@
 
 ---
 
-### 💡 About Me
-- 🔭 **I’m currently working on:** Real-Time Object Detection & Data Analysis Projects  
-- 🌱 **I’m currently learning:** NLP (Natural Language Processing) and Advanced Deep Learning Architectures  
-- 👯 **I’m looking to collaborate on:** Machine Learning, AI-Based Web Apps, and Spring Boot + React Projects  
-- 🤔 **I’m looking for help with:** Deploying ML Models with Flask, FastAPI, or Docker  
-- 💬 **Ask me about:** Data Science, Deep Learning, Computer Vision, Java Development, and Full-Stack Integration   
-- 😄 **Pronouns:** He/Him  
-- ⚡ **Fun fact:** I turn coffee ☕ into clean code and meaningful data insights 📊
+### 🌟 **About Me**
+- 📊 Passionate **Data Scientist & ML Engineer** with expertise in **AI, Deep Learning, and Data Analytics**.
+- 🤖 Building and deploying **Machine Learning & Deep Learning models**.
+- 🛠️ Experienced in **Data Wrangling, Feature Engineering, and Model Optimization**.
+- 🌐 Working with **Big Data technologies** such as Spark & Hadoop.
+- 📈 Strong experience in **Data Visualization & Business Intelligence**.
+- 🔥 Always exploring the latest trends in **AI & Data Science**.
+
   
 ---
 
