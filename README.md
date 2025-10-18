@@ -18,7 +18,7 @@
 - 🔥 Always exploring the latest trends in **AI & Data Science**.
 
 ---
-
+<picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/competitive_programming_profile.png?raw=true" width=40> </picture>
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Shubhamraut2128&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 <!-- Snake Game Repo View -->
