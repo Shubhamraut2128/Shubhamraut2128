@@ -4,12 +4,12 @@
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3Bzc2x6aDE1amE1NTY3OXZvZHBkbnl4M3RxeDRmdnlka2VvOWRweiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4TtTVTmBoXp8txRU0C/giphy.gif" width="54%"/>
 </p>
 
-
 📧 **Email Me:** ✉️ **shubhamraut2128@gmail.com** — For Collaboration, Projects, or Tech Discussions 😊  
 
 ---
+<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
-### 🌟 **About Me**
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
 - 📊 Passionate **Data Scientist & ML Engineer** with expertise in **AI, Deep Learning, and Data Analytics**.
 - 🤖 Building and deploying **Machine Learning & Deep Learning models**.
 - 🛠️ Experienced in **Data Wrangling, Feature Engineering, and Model Optimization**.
@@ -17,7 +17,6 @@
 - 📈 Strong experience in **Data Visualization & Business Intelligence**.
 - 🔥 Always exploring the latest trends in **AI & Data Science**.
 
-  
 ---
 
 ## 🏆 GitHub Trophies
@@ -37,6 +36,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=Shubhamraut2128&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Shubhamraut2128&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shubhamraut2128&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
 
 ### ✍️ Random Dev Quote
